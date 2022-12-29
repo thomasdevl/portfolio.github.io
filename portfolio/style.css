@@ -41,7 +41,7 @@ h1 {
     /* border: 3px dashed #1c87c9; */
     text-align: center;
     width: 300px;
-    background-image: url(../image/rainbow.gif);
+    background-image: url(./image/rainbow.gif);
     background-size: cover;
     background-clip: text;
     -webkit-background-clip: text;
